@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  skipper:
+  - apiVersion: v1
+    appVersion: v0.10.38
+    created: 2018-10-23T23:51:08.840305-04:00
+    description: Skipper helm chart
+    digest: 0c47c5e91c5a527d49c6bcf90daeb5543f65a40dc89bacf21803839b64f4f78a
+    name: skipper
+    urls:
+    - skipper-0.0.2.tgz
+    version: 0.0.2
+generated: 2018-10-23T23:51:08.839718-04:00
